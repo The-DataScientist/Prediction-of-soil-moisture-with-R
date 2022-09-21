@@ -1,1 +1,2 @@
-# Predictions-of-the-quantity-of-water-in-the-underground-with-R
+•	Estimate soil moisture as a response to environmental stresses (solar energy, air temperature, rain, etc.) through a parametric prediction model.
+•	Create an R Shiny application.
